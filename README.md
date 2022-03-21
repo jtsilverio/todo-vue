@@ -1,4 +1,6 @@
-# todo-vue
+# To do app in Vue.js
+
+Simple to do list made with Vue and Vuetify following https://www.youtube.com/watch?v=CjXgoYo86yY
 
 ## Project setup
 ```
