@@ -2,6 +2,8 @@
 
 Simple to do list made with Vue and Vuetify following https://www.youtube.com/watch?v=CjXgoYo86yY
 
+![todo-view](todo-vue.png)
+
 ## Project setup
 ```
 npm install

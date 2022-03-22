@@ -6,6 +6,7 @@
     hide-details=""
     clearable
     append-icon="mdi-plus"
+    prominent
     v-model="newTaskTitle"
     @click:append="addTask"
     @keyup.enter = "addTask"/>
